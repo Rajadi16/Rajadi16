@@ -1,7 +1,7 @@
 <h1 align=center> ❄️ Developer - ✨ Rajput Aditya Singh ✨  - CS Student ❄️ </h1>
 
 <p align=center>
-<img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif">
+<img width="200" height="200" src="[https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif](https://tenor.com/view/duck-ducky-waddle-pixel-pixel-art-gif-11081755292761496972)">
 </p>
 
 <h2 align=center> Proudly, a Developer </h2>
