@@ -1,8 +1,6 @@
 # ❄️ Developer - ✨ Rajput Aditya Singh ✨ - CS Student ❄️
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding"/>
-</p>
+![Coding GIF](https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif)
 
 **I don't let my schooling interfere with my education**
 
@@ -83,6 +81,14 @@ Embedded game console integrating SPI-based LCD display and MicroSD card modules
 ## 🏆 GitHub Trophies ✨
 
 ![](https://github-profile-trophy.vercel.app/?username=Rajadi16&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajadi16/Rajadi16/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajadi16/Rajadi16/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rajadi16/Rajadi16/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/>
 
