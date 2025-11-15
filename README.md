@@ -101,8 +101,5 @@ AI-Integrated Applications, Web Development, Physics Simulations, and Embedded S
 #### What's my biggest achievement? 
 Ranked 6th among 800+ applicants in Samsung Innovation Campus entrance test!
 
-#### What do I do outside coding? 
-I'm the Class Representative at RNSIT, CSE Core Team Member, and Co-founder of EvolveX Club
-
 #### What are my goals? 
-Complete Samsung Innovation Campus, Master Full Stack Development, Contribute to Major Open Source Projects
+Master DSA and Full Stack Development, Contribute to Major Open Source Projects
