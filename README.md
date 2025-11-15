@@ -1,7 +1,7 @@
 <h1 align=center> ❄️ Developer - ✨ Rajput Aditya Singh ✨  - CS Student ❄️ </h1>
 
 <p align=center>
-<img width="200" height="200" src="https://media.tenor.com/mcpNuaDanYwAAAAi/duck-ducky.gif">
+<img width="200" height="200" src="https://media.tenor.com/Mx7NYmMM2wIAAAAi/blastoise-pokemon-pokemon.gif">
 </p>
 
 <h2 align=center> Proudly, a Developer </h2>
