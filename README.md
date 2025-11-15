@@ -1,6 +1,8 @@
 # ❄️ Developer - ✨ Rajput Aditya Singh ✨ - CS Student ❄️
 
-![Coding GIF](https://media.tenor.com/hD56X-Q5AzMAAAj/gopher-shaking.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding"/>
+</p>
 
 **I don't let my schooling interfere with my education**
 
@@ -13,7 +15,7 @@ Read all about me here: [Portfolio](https://github.com/Rajadi16)
 | Frameworks & Tools | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 | Embedded Systems | ![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) ![MicroPython](https://img.shields.io/badge/micropython-2B2728?style=for-the-badge&logo=micropython&logoColor=white) |
 | AI/ML | ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white) |
-| Social Links | [gmail](mailto:1rn23cs163.rajputadityasingh@gmail.com) [github](https://github.com/Rajadi16) [whatsapp](https://wa.me/918787395484) |
+| Social Links | [linkedin](https://www.linkedin.com/in/rajput-aditya-singh) [github](https://github.com/Rajadi16) |
 
 ## 🔎 About me 🔎
 
@@ -102,9 +104,7 @@ I'm the Class Representative at RNSIT, CSE Core Team Member, and Co-founder of E
 
 ## 🤝 Connect with Me
 
-**Email:** [1rn23cs163.rajputadityasingh@gmail.com](mailto:1rn23cs163.rajputadityasingh@gmail.com) | [rajputadityasingh2407@gmail.com](mailto:rajputadityasingh2407@gmail.com)
-
-**WhatsApp:** [+91-8787395484](https://wa.me/918787395484)
+**LinkedIn:** [linkedin.com/in/rajput-aditya-singh](https://www.linkedin.com/in/rajput-aditya-singh)
 
 **GitHub:** [github.com/Rajadi16](https://github.com/Rajadi16)
 
