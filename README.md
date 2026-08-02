@@ -5,116 +5,91 @@ Backend Developer • Open Source Enthusiast • Computer Science Student
 </h3>
 
 <p align="center">
-Building scalable backend systems, developer tooling, and cloud-native software.
+<img width="240" src="https://media.tenor.com/Mx7NYmMM2wIAAAAi/blastoise-pokemon-pokemon.gif">
 </p>
 
 <p align="center">
+Building scalable backend systems, distributed applications, and developer tooling.
+</p>
+
+<p align="center">
+
 <a href="https://github.com/Rajadi16">
 <img src="https://img.shields.io/badge/GitHub-Rajadi16-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.linkedin.com/in/rajput-aditya-singh">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya_Singh-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Rajput%20Aditya%20Singh-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:rajasofficial16@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-rajasofficial16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 Computer Science undergraduate at **RNS Institute of Technology**
-- 💻 Backend Developer focused on **Java, Python, Spring Boot, and Distributed Systems**
-- ☁️ Exploring **Apache Spark, Kubernetes, Spark Connect, and Cloud-Native Applications**
-- 🌱 Currently building **Mini SparkClient**, an educational implementation inspired by Kubeflow SparkClient (KEP-107)
-- ❤️ Passionate about Open Source, SDK Design, Developer Tooling, and Backend Infrastructure
-- 🏆 Samsung Innovation Campus Scholar (Rank **6/800+**)
-- 🎯 Targeting **LFX Mentorship** and CNCF/Kubeflow contributions
+- 🎓 Computer Science Undergraduate at **RNS Institute of Technology**
+- 💻 Backend Developer focused on **Java, Python, Spring Boot, and scalable backend systems**
+- ☁️ Exploring **Apache Spark, Kubernetes, Spark Connect, and distributed systems**
+- 🚀 Currently building **Mini SparkClient**, an educational implementation inspired by **Kubeflow SparkClient (KEP-107)**
+- ❤️ Passionate about **Open Source, SDK Design, Developer Tooling, and Cloud-Native Applications**
+- 🏆 Samsung Innovation Campus Scholar (**Rank 6 among 800+ applicants**)
+- 🎯 Preparing for **LFX Mentorship** and contributing to the **Kubeflow ecosystem**
 
 ---
 
 # 🚀 Current Focus
 
-✅ Apache Spark
-
-✅ Kubernetes
-
-✅ Python SDK Design
-
-✅ Distributed Systems
-
-✅ Backend Engineering
-
-✅ Open Source
+- 🔹 Apache Spark
+- 🔹 Kubernetes
+- 🔹 Python SDK Design
+- 🔹 Distributed Systems
+- 🔹 Backend Engineering
+- 🔹 Open Source
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-## Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
----
-
-## Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
----
-
-## Cloud & Data
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
-
-## AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Anthropic](https://img.shields.io/badge/Anthropic-black?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Java • Python • TypeScript • JavaScript • SQL • C |
+| **Backend** | Spring Boot • Node.js • Express.js • REST APIs • Microservices • SDK Design |
+| **Cloud & Infrastructure** | Apache Spark • Kubernetes • Spark Connect • YAML • Git • GitHub |
+| **Databases** | PostgreSQL • MySQL • MongoDB |
+| **AI & Automation** | OpenAI • Anthropic • Gemini • Ollama |
 
 ---
 
 # 🌟 Featured Projects
 
-## 🚀 Mini SparkClient
+## 🚀 Mini SparkClient *(Current Project)*
 
 Educational implementation inspired by **Kubeflow SparkClient (KEP-107)**.
 
-Features
+### Features
 
-- Spark Connect
-- Batch Jobs
-- Scheduled Jobs
+- Interactive Spark Connect Sessions
+- Batch Spark Jobs
+- Scheduled Spark Workloads
 - Kubernetes Integration
 - SparkApplication YAML Generation
 - Backend Abstraction
-- Job Lifecycle APIs
-- Observability
+- Job Lifecycle Management
+- Observability APIs
 - Python SDK Design
 
-🔗 https://github.com/Rajadi16/mini-spark-client
+🔗 **Repository:** https://github.com/Rajadi16/mini-spark-client
 
 ---
 
 ## ⏳ TimeTrace AI
 
-VS Code extension that reconstructs bug evolution using save-by-save checkpoints and interactive debugging timelines.
+VS Code extension that reconstructs bug evolution through save-by-save checkpoints, correlates code changes, and visualizes probable root causes using an interactive debugging timeline.
 
 🔗 https://github.com/Rajadi16/TimeTrace-AI
 
@@ -122,34 +97,98 @@ VS Code extension that reconstructs bug evolution using save-by-save checkpoints
 
 ## 🛒 Dukaan Daar
 
-Privacy-first browser extension enabling AI-powered voice automation using OpenAI, Anthropic, Gemini, and Ollama.
+Privacy-first browser extension enabling AI-powered voice automation through modular multi-agent workflows using OpenAI, Anthropic, Gemini, and Ollama.
 
 🔗 https://github.com/Rajadi16/voice_assistence
 
 ---
 
-# 📈 GitHub Stats
+## ⚙️ SimuPhysics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rajadi16&show_icons=true&theme=tokyonight)
+AI-powered physics simulation platform that transforms natural language prompts into interactive simulations using Gemini AI and Matter.js.
+
+🔗 https://github.com/Rajadi16/SimuPhysics-final
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajadi16&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajadi16&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+[![Rajput Aditya Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajadi16&theme=tokyo-night)](https://github.com/Rajadi16)
+
+</p>
+
+---
+
+# 📋 GitHub Profile Summary
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajadi16&theme=tokyonight)
 
-![](https://github-profile-trophy.vercel.app/?username=Rajadi16&theme=tokyonight&margin-w=5)
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Rajadi16&theme=tokyonight&no-frame=false&margin-w=5)
 
 ---
 
-# 🌍 Open Source Goals
+# 🐍 Contribution Snake
 
-- Contribute to Kubeflow
-- Contribute to CNCF projects
-- Build production-quality developer tools
-- Improve cloud-native data engineering tooling
-- Mentor future open-source contributors
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajadi16/Rajadi16/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajadi16/Rajadi16/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rajadi16/Rajadi16/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-# 📫 Connect
+# 🎯 2026 Goals
 
-- GitHub: https://github.com/Rajadi16
-- LinkedIn: https://www.linkedin.com/in/rajput-aditya-singh
-- Email: rajasofficial16@gmail.com
+- ✅ Contribute to Kubeflow
+- ✅ Complete Mini SparkClient
+- ✅ Participate in LFX Mentorship
+- ✅ Learn Apache Spark Internals
+- ✅ Explore Kubernetes Operators
+- ✅ Build production-quality Python SDKs
+- ✅ Become an active CNCF contributor
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Rajadi16">
+<img src="https://img.shields.io/badge/GitHub-Rajadi16-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/rajput-aditya-singh">
+<img src="https://img.shields.io/badge/LinkedIn-Rajput%20Aditya%20Singh-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:rajasofficial16@gmail.com">
+<img src="https://img.shields.io/badge/Email-rajasofficial16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"First solve the problem. Then write clean, maintainable software."</i>
+
+</p>
